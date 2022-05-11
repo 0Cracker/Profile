@@ -1,0 +1,21 @@
+.Large{
+    font-size:15px;
+    font-weight:bolder;
+    font-style: oblique;
+}
+
+
+.hate{
+    color:crimson;
+}
+
+.title{
+    text-align: center;
+    margin-top: 0px;
+}
+.cover{
+    background: wheat;
+    margin:auto;
+    border-radius: 10px;
+}
+
